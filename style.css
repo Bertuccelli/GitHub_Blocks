@@ -5,35 +5,23 @@ h1 {
     color: darkslategrey;
     padding-top: 10px;
 }
-.top {
+.box {
     display: flex;
-    background-color: hotpink;
     justify-content: space-evenly;
     margin: 25px;
 }
-    .topcats {
+.top {
+    background-color: hotpink;
+}
+    .cats {
         width: 200px;
         height: 200px;
 }
 .middle {
-    display: flex;
     background-color: rebeccapurple;
-    justify-content: space-evenly;
-    margin: 25px;
 }
-    .midcats {
-        width: 200px;
-        height: 200px;
-}   
 .bottom {
-    display: flex;
     background-color: royalblue;
-    justify-content: space-evenly;
-    margin: 25px;
-}
-    .lastcats {
-        width: 200px;
-        height: 200px;
 }
     .bewitched {
         width: 200px;
